@@ -1,0 +1,22 @@
+{
+  "name": "github-training",
+  "version": "1.0.0",
+  "description": "Training for github",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juan-manuel-roman/github-training.git"
+  },
+  "keywords": [
+    "training"
+  ],
+  "author": "Juanro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juan-manuel-roman/github-training/issues"
+  },
+  "homepage": "https://github.com/juan-manuel-roman/github-training#readme"
+}
