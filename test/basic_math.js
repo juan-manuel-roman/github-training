@@ -7,3 +7,5 @@ class MyClass {
     console.log(this.name);
   }
 }
+
+// AND A TEST
